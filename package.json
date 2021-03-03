@@ -1,0 +1,22 @@
+{
+  "name": "changelog",
+  "version": "1.0.0",
+  "description": "Testing GIT Changelog",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dspano/changelog.git"
+  },
+  "author": "David Spano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dspano/changelog/issues"
+  },
+  "homepage": "https://github.com/dspano/changelog#readme",
+  "devDependencies": {
+    "generate-changelog": "^1.8.0"
+  }
+}
